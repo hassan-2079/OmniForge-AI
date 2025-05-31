@@ -28,7 +28,8 @@ Rather than acting as a passive chatbot, OmniForge actively decomposes high-leve
 
  📁 Repository Structure
 
-OmniForge-AI/ │ ├── README.md                # Project overview ├── whitepaper.pdf           # Full technical documentation ├── architecture-diagram.png # (Optional) System architecture ├── /docs                    # Modular markdown sections of the architecture ├── /src                     # (Optional) Code modules or agents └── LICENSE                  # Optional: MIT / Apache 2.0
+OmniForge-AI/ │ ├── README.md                # Project overview ├── whitepaper.pdf           # Full technical documentation ├──
+System architecture ├── /docs                    # Modular markdown sections of the architecture ├── /src                      Code modules or agents 
 
 
 
